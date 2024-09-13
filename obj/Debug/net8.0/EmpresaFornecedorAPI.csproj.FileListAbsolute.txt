@@ -137,3 +137,4 @@ C:\projetos\EmpresaFornecedorAPI\obj\Debug\net8.0\refint\EmpresaFornecedorAPI.dl
 C:\projetos\EmpresaFornecedorAPI\obj\Debug\net8.0\EmpresaFornecedorAPI.pdb
 C:\projetos\EmpresaFornecedorAPI\obj\Debug\net8.0\EmpresaFornecedorAPI.genruntimeconfig.cache
 C:\projetos\EmpresaFornecedorAPI\obj\Debug\net8.0\ref\EmpresaFornecedorAPI.dll
+c:\projetos\EmpresaFornecedorAPI\obj\Debug\net8.0\EmpresaFornecedorAPI.sourcelink.json

@@ -34,7 +34,7 @@ public class EmpresasController : ControllerBase
         return empresa;
     }
 
-    [HttpPost("{empresa}")]
+    [HttpPost]
     public async Task<ActionResult<Empresa>> PostEmpresa(Empresa empresa)
     {
         _context.Empresas.Add(empresa);
